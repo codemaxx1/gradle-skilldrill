@@ -1,0 +1,29 @@
+[
+  {
+    "course": {
+      "number": 2270,
+      "subject": "Math",
+      "title": "calculus1"
+    },
+    "firstName": "Kyle",
+    "lastName": "Bakers"
+  },
+  {
+    "course": {
+      "number": 1175,
+      "subject": "Math",
+      "title": "calculus2"
+    },
+    "firstName": "Lilly",
+    "lastName": "Bakers"
+  },
+  {
+    "course": {
+      "number": 1170,
+      "subject": "Math",
+      "title": "calculus"
+    },
+    "firstName": "Tate",
+    "lastName": "Bakers"
+  }
+]
